@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="116" viewBox="0 0 116 116">
+  <g id="sad_smiley" data-name="sad smiley" transform="translate(-135 -235)">
+    <circle id="Ellipse_331" data-name="Ellipse 331" cx="58" cy="58" r="58" transform="translate(135 235)" fill="#ffecec"/>
+    <g id="Icon_ionic-md-sad" data-name="Icon ionic-md-sad" transform="translate(163.501 263.501)">
+      <path id="Path_5476" data-name="Path 5476" d="M25.443,20.25a16.188,16.188,0,0,0-14.63,9.161H40.073A16.188,16.188,0,0,0,25.443,20.25Z" transform="translate(4.33 14.104)" fill="#f11b1b" stroke="#eef1f6" stroke-width="1"/>
+      <path id="Path_5477" data-name="Path 5477" d="M33.148,3.375A29.773,29.773,0,1,0,62.921,33.148,29.765,29.765,0,0,0,33.148,3.375Zm0,53.592A23.819,23.819,0,1,1,56.967,33.148,23.89,23.89,0,0,1,33.148,56.967Z" transform="translate(-3.375 -3.375)" fill="#f11b1b" stroke="#eef1f6" stroke-width="1"/>
+      <path id="Path_5478" data-name="Path 5478" d="M25.391,21.082a4.466,4.466,0,1,0-4.466-4.466A4.386,4.386,0,0,0,25.391,21.082Z" transform="translate(14.803 5.714)" fill="#f11b1b" stroke="#eef1f6" stroke-width="1"/>
+      <path id="Path_5479" data-name="Path 5479" d="M15.154,21.082a4.466,4.466,0,0,0,0-8.932,4.466,4.466,0,1,0,0,8.932Z" transform="translate(4.199 5.714)" fill="#f11b1b" stroke="#eef1f6" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

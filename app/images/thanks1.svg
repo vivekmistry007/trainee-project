@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="110" viewBox="0 0 113 110">
+  <g id="thanks1" transform="translate(-10615 -2727)">
+    <text id="Thank_You_" data-name="Thank You!" transform="translate(10616 2821)" fill="#2dbdca" font-size="29" font-family="Pacifico-Regular, Pacifico"><tspan x="0" y="0">Thank You!</tspan></text>
+    <g id="thanks-icn" transform="translate(10641.716 2726.57)">
+      <g id="Group_11414" data-name="Group 11414" transform="translate(0.45 0.426)">
+        <path id="Path_3456" data-name="Path 3456" d="M31.061,35.928a2.087,2.087,0,0,0-2.951,2.951l9.615,9.615a2.037,2.037,0,0,0,1.475.61h.1a2.325,2.325,0,0,0,1.526-.763L64.893,19.5a2.1,2.1,0,0,0-3.205-2.7L39.049,43.915Z" transform="translate(-13.738 -8.112)" fill="#2dbdca"/>
+        <path id="Path_3457" data-name="Path 3457" d="M45.55,4.941A29.57,29.57,0,1,0,54.911,14.3a2.068,2.068,0,0,0-3.51,2.188A25.326,25.326,0,1,1,43.363,8.45a2.068,2.068,0,0,0,2.188-3.51Z" transform="translate(-0.45 -0.426)" fill="#c1c1c1"/>
+      </g>
+    </g>
+  </g>
+</svg>

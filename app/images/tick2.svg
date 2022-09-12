@@ -1,0 +1,12 @@
+<svg id="tick_2_" data-name="tick (2)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.637" height="22.637" viewBox="0 0 22.637 22.637">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2dbdca"/>
+      <stop offset="1" stop-color="#2dbdca"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3744" data-name="Group 3744">
+    <circle id="Ellipse_191" data-name="Ellipse 191" cx="11.318" cy="11.318" r="11.318" fill="url(#linear-gradient)"/>
+  </g>
+  <path id="Path_3450" data-name="Path 3450" d="M136.524,170.852a.949.949,0,0,1-.678-.284L132.339,167a.95.95,0,0,1,1.355-1.332l2.8,2.847,5.8-6.383a.95.95,0,1,1,1.406,1.278l-6.472,7.127a.951.951,0,0,1-.684.312Z" transform="translate(-126.688 -155.02)" fill="#fff"/>
+</svg>
